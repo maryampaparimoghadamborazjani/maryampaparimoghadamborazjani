@@ -10,5 +10,4 @@ I am a lifelong learner specializing in **Deep Learning** and **Renewable Energy
 
 ## 🌐 Connect with Me
 - [Official Portfolio](https://maryampaparimoghadamborazjani.github.io/)
-- [Google Scholar](https://scholar.google.com/)
-- [LinkedIn](https://www.linkedin.com/)
+
