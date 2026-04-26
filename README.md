@@ -1,4 +1,4 @@
-# Maryam Paparimoghadamborazjani 🌉
+# MaryamPaparimoghadamborazjani 🌉
 ### AI Researcher & Data Science Enthusiast 
 
 I am a lifelong learner specializing in **Deep Learning** and **Renewable Energy**
